@@ -2,7 +2,7 @@
 # Genomic Signatures of Oral Microbiome-Associated ARGs for Diagnosing Pancreatic Cancer
 
 ## Description
-This repository contains the code used in the study "Leveraging genomic signatures of oral microbiome-associated antibiotic resistance genes for diagnosing pancreatic cancer," published in PLOS One. The study investigates the potential of using genomic signatures associated with antibiotic resistance genes (ARGs) within the oral microbiome for the diagnosis of pancreatic ductal adenocarcinoma (PDAC).
+This repository contains the code used in the study "Leveraging genomic signatures of oral microbiome-associated antibiotic resistance genes for diagnosing pancreatic cancer". The study investigates the potential of using genomic signatures associated with antibiotic resistance genes (ARGs) within the oral microbiome for the diagnosis of pancreatic ductal adenocarcinoma (PDAC).
 
 ## Contents
 - `pipeline.sh`: Shell script for preprocessing, quality control, and alignment of sequencing data.
@@ -44,5 +44,4 @@ This project is open source and available under the MIT License.
 ## Acknowledgements
 This work was supported by the Qingdao Municipal Hospital (Group) Stomatology, Qingdao, Shandong, China, and the Department of Gastroenterology, Qingdao Municipal Hospital, Qingdao, Shandong, China.
 
-## How to Cite
-Please cite this work as follows: Shen X., Zhu X., Liu H., Yuan R., Guo Q., Zhao P. (Year). Leveraging genomic signatures of oral microbiome-associated antibiotic resistance genes for diagnosing pancreatic cancer. PLOS One.
+
